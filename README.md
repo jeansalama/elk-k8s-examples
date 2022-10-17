@@ -1,9 +1,14 @@
-# ELK deployment examples on K8s
+# `ELK` deployment examples on K8s
 
-A repo with different examples of Logstash architectures to ship data to Elasticsearch. 
-These examples are deployed with Helm on K8s
+A repo with different examples of `Logstash` architectures to ship data to `Elasticsearch`. 
+These examples are deployed with `Helm` on `K8s`
 
 See [`logstash/`](logstash/) for more details.
+
+## Disclaimer
+
+This repo is not for production. I use some `Helm` charts to test different 
+deployment architectures with `Logstash` on `minikube`.
 
 ## References
 
